@@ -1,5 +1,4 @@
-snowhouse1234@out
-robsnowout
+
 
  <?php
         $conn=mysqli_connect("localhost", "showcase", "showcase123", "na723_Showcase");
